@@ -1,0 +1,105 @@
+.pr_img{
+
+    border-radius: 100px;
+    width: 210px;
+    margin-top: 80px;
+    
+}
+body{
+    text-align: center;
+    margin: 0;
+    /*background-color: #EEF5FF;*/
+    font-family: 'Merriweather', serif;
+}
+.middle-container{
+    margin: auto;
+}
+.header{
+    position: fixed;
+    margin : 0 ;
+    height : 50px;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    background-color: grey ; 
+}
+.insta_image{
+    width: 30px;
+    position: relative;
+    top: 5px ;
+    left: 5px;
+}
+.linkedin_image{
+    width: 30px;
+    position: absolute;
+    top: 5px;
+    left: 50px;
+}
+.skill-row1{
+    width: 30%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.skill-row2{
+    width: 30%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+/* -------------Headings--------------------------- */
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 ; 
+    font-family: 'Sacramento' , cursive ;
+}
+
+h2{
+    font-size: 2.5rem;
+    margin: 50px auto 0 ; 
+    font-family: 'Monserrat'  ;
+}
+    
+
+
+
+/* --------------Images---------------------------- */
+.Cloud1{
+    display: block;
+    position: relative;
+    top: 60px;
+    left: 70%;
+
+}
+.Cloud2{
+    display: block;
+    position: relative;
+    left: 20%;
+    
+
+}
+
+.Mountain{
+    display: block;
+    height: 200px;
+    margin: auto;
+
+}
+.chillies{
+    height: 150px;
+    float: left;
+    margin-right: 30px;
+    
+}
+
+.pgm{
+    float: right;
+    height: 150px;
+    margin-left: 30px;
+    
+}
+
+/* ------------------------------------------------- */
